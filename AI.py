@@ -9,7 +9,6 @@ import time
 
 # Define cost of moving around the map
 cost_regular = 1.0
-cost_diagonal = 1.7
 
 COSTS = {
     "up": cost_regular,
